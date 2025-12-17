@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Issi",
+    "category": "Compacts",
+    "factoryPrice": "10k",
+    "basePrice": ""
+  },
+  {
+    "name": "Elegy Sport",
+    "category": "Sport",
+    "factoryPrice": "95k",
+    "basePrice": ""
+  },
+  {
+    "name": "Buffalo STX",
+    "category": "Muscles",
+    "factoryPrice": "42k",
+    "basePrice": ""
+  }
+]

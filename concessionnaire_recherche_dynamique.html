@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Concessionnaire – Recherche véhicules</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 15px;
+    }
+    input {
+      width: 100%;
+      padding: 12px;
+      border-radius: 10px;
+      border: none;
+      margin-bottom: 20px;
+      font-size: 16px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #020617;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #334155;
+      text-align: left;
+    }
+    th {
+      background: #020617;
+      font-weight: bold;
+    }
+    tr:hover {
+      background: #1e293b;
+    }
+    .loading {
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🚘 Concessionnaire</h1>
+<input type="text" id="search" placeholder="Rechercher un véhicule...">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nom</th>
+      <th>Catégorie</th>
+      <th>Prix d'usine</th>
+      <th>Prix de base</th>
+    </tr>
+  </thead>
+  <tbody id="table" class="loading">
+    <tr><td colspan="4">Chargement des véhicules...</td></tr>
+  </tbody>
+</table>
+
+<script>
+let vehicles = [];
+
+const table = document.getElementById('table');
+const search = document.getElementById('search');
+
+// Chargement du JSON
+fetch('vehicles.json')
+  .then(response => response.json())
+  .then(data => {
+    vehicles = data;
+    render(vehicles);
+    table.classList.remove('loading');
+  })
+  .catch(() => {
+    table.innerHTML = '<tr><td colspan="4">Erreur : impossible de charger vehicles.json</td></tr>';
+  });
+
+function render(list) {
+  table.innerHTML = '';
+
+  if (list.length === 0) {
+    table.innerHTML = '<tr><td colspan="4">Aucun véhicule trouvé</td></tr>';
+    return;
+  }
+
+  list.forEach(v => {
+    table.innerHTML += `
+      <tr>
+        <td>${v.name || ''}</td>
+        <td>${v.category || ''}</td>
+        <td>${v.factoryPrice || ''}</td>
+        <td>${v.basePrice || ''}</td>
+      </tr>
+    `;
+  });
+}
+
+// Recherche dynamique
+search.addEventListener('input', () => {
+  const value = search.value.toLowerCase();
+  const filtered = vehicles.filter(v =>
+    v.name.toLowerCase().includes(value)
+  );
+  render(filtered);
+});
+</script>
+
+</body>
+</html>
