@@ -12,7 +12,9 @@
     th, td { padding: 12px; border-bottom: 1px solid #334155; text-align: left; }
     th { background: #020617; font-weight: bold; }
     tr:hover { background: #1e293b; }
-    button { padding: 5px 10px; border-radius: 6px; border: none; cursor: pointer; background: #3b82f6; color: white; }
+    button { padding: 5px 10px; border-radius: 6px; border: none; cursor: pointer; color: white; margin-right: 5px; }
+    .btn-factory { background-color: #3b82f6; }
+    .btn-base { background-color: #10b981; }
   </style>
 </head>
 <body>
@@ -65,7 +67,10 @@ function render(list) {
         <td>${v.category}</td>
         <td>${v.factoryPrice}</td>
         <td>${v.basePrice}</td>
-        <td><button onclick="editPrice(${i})">Modifier prix</button></td>
+        <td>
+          <button class='btn-factory' onclick="editPrice(${i}, 'factoryPrice')">Prix d'usine</button>
+          <button class='btn-base' onclick="editPrice(${i}, 'basePrice')">Prix de vente</button>
+        </td>
       </tr>
     `;
   });
@@ -76,10 +81,11 @@ search.addEventListener('input',()=>{
   render(vehicles.filter(v => v.name.toLowerCase().includes(value)));
 });
 
-function editPrice(index){
-  const newPrice = prompt('Nouveau prix d\'usine pour '+vehicles[index].name+' ?', vehicles[index].factoryPrice);
+function editPrice(index, type){
+  const currentValue = vehicles[index][type];
+  const newPrice = prompt(`Nouveau ${type === 'factoryPrice' ? "prix d'usine" : "prix de vente"} pour ${vehicles[index].name} ?`, currentValue);
   if(newPrice !== null){
-    vehicles[index].factoryPrice = newPrice;
+    vehicles[index][type] = newPrice;
     localStorage.setItem('vehicles', JSON.stringify(vehicles));
     render(vehicles);
   }
