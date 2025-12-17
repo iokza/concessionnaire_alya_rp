@@ -5,46 +5,14 @@
   <title>Concessionnaire – Recherche véhicules</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #0f172a;
-      color: #e5e7eb;
-      padding: 20px;
-    }
-    h1 {
-      font-size: 28px;
-      margin-bottom: 15px;
-    }
-    input {
-      width: 100%;
-      padding: 12px;
-      border-radius: 10px;
-      border: none;
-      margin-bottom: 20px;
-      font-size: 16px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: #020617;
-      border-radius: 12px;
-      overflow: hidden;
-    }
-    th, td {
-      padding: 12px;
-      border-bottom: 1px solid #334155;
-      text-align: left;
-    }
-    th {
-      background: #020617;
-      font-weight: bold;
-    }
-    tr:hover {
-      background: #1e293b;
-    }
-    .loading {
-      opacity: 0.6;
-    }
+    body { font-family: Arial, sans-serif; background: #0f172a; color: #e5e7eb; padding: 20px; }
+    h1 { font-size: 28px; margin-bottom: 15px; }
+    input { width: 100%; padding: 12px; border-radius: 10px; border: none; margin-bottom: 20px; font-size: 16px; }
+    table { width: 100%; border-collapse: collapse; background: #020617; border-radius: 12px; overflow: hidden; }
+    th, td { padding: 12px; border-bottom: 1px solid #334155; text-align: left; }
+    th { background: #020617; font-weight: bold; }
+    tr:hover { background: #1e293b; }
+    button { padding: 5px 10px; border-radius: 6px; border: none; cursor: pointer; background: #3b82f6; color: white; }
   </style>
 </head>
 <body>
@@ -59,59 +27,63 @@
       <th>Catégorie</th>
       <th>Prix d'usine</th>
       <th>Prix de base</th>
+      <th>Actions</th>
     </tr>
   </thead>
   <tbody id="table" class="loading">
-    <tr><td colspan="4">Chargement des véhicules...</td></tr>
+    <tr><td colspan="5">Chargement des véhicules...</td></tr>
   </tbody>
 </table>
 
 <script>
 let vehicles = [];
-
 const table = document.getElementById('table');
 const search = document.getElementById('search');
 
-// Chargement du JSON
-fetch('vehicles.json')
-  .then(response => response.json())
-  .then(data => {
-    vehicles = data;
-    render(vehicles);
-    table.classList.remove('loading');
-  })
-  .catch(() => {
-    table.innerHTML = '<tr><td colspan="4">Erreur : impossible de charger vehicles.json</td></tr>';
-  });
+// Charger depuis localStorage ou JSON
+if(localStorage.getItem('vehicles')) {
+  vehicles = JSON.parse(localStorage.getItem('vehicles'));
+  render(vehicles);
+} else {
+  fetch('vehicles.json')
+    .then(res => res.json())
+    .then(data => {
+      vehicles = data;
+      localStorage.setItem('vehicles', JSON.stringify(vehicles));
+      render(vehicles);
+    })
+    .catch(() => { table.innerHTML = '<tr><td colspan="5">Erreur : impossible de charger vehicles.json</td></tr>'; });
+}
 
 function render(list) {
   table.innerHTML = '';
-
-  if (list.length === 0) {
-    table.innerHTML = '<tr><td colspan="4">Aucun véhicule trouvé</td></tr>';
-    return;
-  }
-
-  list.forEach(v => {
+  if(list.length === 0){ table.innerHTML = '<tr><td colspan="5">Aucun véhicule trouvé</td></tr>'; return; }
+  list.forEach((v,i)=>{
     table.innerHTML += `
       <tr>
-        <td>${v.name || ''}</td>
-        <td>${v.category || ''}</td>
-        <td>${v.factoryPrice || ''}</td>
-        <td>${v.basePrice || ''}</td>
+        <td>${v.name}</td>
+        <td>${v.category}</td>
+        <td>${v.factoryPrice}</td>
+        <td>${v.basePrice}</td>
+        <td><button onclick="editPrice(${i})">Modifier prix</button></td>
       </tr>
     `;
   });
 }
 
-// Recherche dynamique
-search.addEventListener('input', () => {
+search.addEventListener('input',()=>{
   const value = search.value.toLowerCase();
-  const filtered = vehicles.filter(v =>
-    v.name.toLowerCase().includes(value)
-  );
-  render(filtered);
+  render(vehicles.filter(v => v.name.toLowerCase().includes(value)));
 });
+
+function editPrice(index){
+  const newPrice = prompt('Nouveau prix d\'usine pour '+vehicles[index].name+' ?', vehicles[index].factoryPrice);
+  if(newPrice !== null){
+    vehicles[index].factoryPrice = newPrice;
+    localStorage.setItem('vehicles', JSON.stringify(vehicles));
+    render(vehicles);
+  }
+}
 </script>
 
 </body>
