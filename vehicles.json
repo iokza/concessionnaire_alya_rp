@@ -2,19 +2,19 @@
   {
     "name": "Issi",
     "category": "Compacts",
-    "factoryPrice": "10k",
-    "basePrice": "10k"
+    "factoryPrice": "10 000",
+    "basePrice": "27k"
   },
   {
     "name": "Elegy Sport",
     "category": "Sport",
-    "factoryPrice": "95k",
-    "basePrice": "95k"
+    "factoryPrice": "95 0000",
+    "basePrice": "128.25k"
   },
   {
     "name": "Buffalo STX",
     "category": "Muscles",
-    "factoryPrice": "42k",
+    "factoryPrice": "42 000",
     "basePrice": "42k"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "club",
     "category": "Compacts",
-    "factoryPrice": "8k",
+    "factoryPrice": "8 000",
     "basePrice": ""
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "weevil",
     "category": "Compacts",
-    "factoryPrice": "",
+    "factoryPrice": "8 000",
     "basePrice": ""
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "Felon",
     "category": "Coupés",
-    "factoryPrice": "",
+    "factoryPrice": "42 000",
     "basePrice": ""
   },
   {
@@ -206,7 +206,7 @@
   {
     "name": "GresleySTX",
     "category": "Imports",
-    "factoryPrice": "",
+    "factoryPrice": "245 000",
     "basePrice": ""
   },
   {
@@ -272,7 +272,7 @@
   {
     "name": "dominator3",
     "category": "Muscles",
-    "factoryPrice": "",
+    "factoryPrice": "45 000",
     "basePrice": ""
   },
   {
@@ -650,7 +650,7 @@
   {
     "name": "verus",
     "category": "Off-Road",
-    "factoryPrice": "45k",
+    "factoryPrice": "45 000",
     "basePrice": ""
   },
   {
@@ -872,20 +872,20 @@
   {
     "name": "carbonizzare",
     "category": "Sport",
-    "factoryPrice": "75k",
+    "factoryPrice": "75 000",
     "basePrice": ""
   },
   {
     "name": "Comet",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "72 000",
+    "basePrice": "97.2k"
   },
   {
     "name": "Comet 5",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "145 000",
+    "basePrice": "195.75k"
   },
   {
     "name": "Coquette",
@@ -902,14 +902,14 @@
   {
     "name": "dynasty",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20 000",
+    "basePrice": "27k"
   },
   {
     "name": "Elegy",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90 000",
+    "basePrice": "121.5k"
   },
   {
     "name": "f",
@@ -1004,8 +1004,8 @@
   {
     "name": "jugular",
     "category": "Sport",
-    "factoryPrice": "165k",
-    "basePrice": ""
+    "factoryPrice": "165 000",
+    "basePrice": "222.75k"
   },
   {
     "name": "Khamelion",
@@ -1064,7 +1064,7 @@
   {
     "name": "Neon",
     "category": "Sport",
-    "factoryPrice": "150k",
+    "factoryPrice": "150 000",
     "basePrice": ""
   },
   {
@@ -1088,7 +1088,7 @@
   {
     "name": "paragon",
     "category": "Sport",
-    "factoryPrice": "115k",
+    "factoryPrice": "115 000",
     "basePrice": ""
   },
   {
@@ -1130,7 +1130,7 @@
   {
     "name": "Revolter",
     "category": "Sport",
-    "factoryPrice": "161k",
+    "factoryPrice": "161 000",
     "basePrice": ""
   },
   {
@@ -1190,13 +1190,13 @@
   {
     "name": "sultan2",
     "category": "Sport",
-    "factoryPrice": "20k",
-    "basePrice": ""
+    "factoryPrice": "20 000",
+    "basePrice": "27k"
   },
   {
     "name": "Sultan RS",
     "category": "Sport",
-    "factoryPrice": "",
+    "factoryPrice": "85 000",
     "basePrice": ""
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "name": "vstr",
     "category": "Sport",
-    "factoryPrice": "",
+    "factoryPrice": "115 000",
     "basePrice": ""
   },
   {
@@ -1268,8 +1268,8 @@
   {
     "name": "comet6",
     "category": "Sport",
-    "factoryPrice": "182k",
-    "basePrice": ""
+    "factoryPrice": "182 000",
+    "basePrice": "245.7k"
   },
   {
     "name": "dominator7",
@@ -1292,8 +1292,8 @@
   {
     "name": "rt3000",
     "category": "Sport",
-    "factoryPrice": "2k",
-    "basePrice": ""
+    "factoryPrice": "2 000",
+    "basePrice": "2700"
   },
   {
     "name": "sultan3",
@@ -1346,8 +1346,8 @@
   {
     "name": "Jester Comet S2 Cabrio",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "137 000",
+    "basePrice": "184.95k"
   },
   {
     "name": "Growler",
@@ -1460,7 +1460,7 @@
   {
     "name": "gp1",
     "category": "Supers",
-    "factoryPrice": "112k",
+    "factoryPrice": "112 000",
     "basePrice": ""
   },
   {
@@ -1520,7 +1520,7 @@
   {
     "name": "xa21",
     "category": "Supers",
-    "factoryPrice": "70k",
+    "factoryPrice": "70 000",
     "basePrice": ""
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "name": "Fhantom",
     "category": "SUVs",
-    "factoryPrice": "17k",
+    "factoryPrice": "17 000",
     "basePrice": ""
   },
   {
@@ -1670,13 +1670,13 @@
   {
     "name": "rebla",
     "category": "SUVs",
-    "factoryPrice": "45k",
+    "factoryPrice": "45 000",
     "basePrice": ""
   },
   {
     "name": "Rocoto",
     "category": "SUVs",
-    "factoryPrice": "",
+    "factoryPrice": "45 000",
     "basePrice": ""
   },
   {
@@ -1712,13 +1712,13 @@
   {
     "name": "XLS",
     "category": "SUVs",
-    "factoryPrice": "32k",
+    "factoryPrice": "32 000",
     "basePrice": ""
   },
   {
     "name": "Pfister Astron",
     "category": "SUVs",
-    "factoryPrice": "",
+    "factoryPrice": "103 000",
     "basePrice": ""
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "name": "Declasse Granger 3600LX",
     "category": "SUVs",
-    "factoryPrice": "",
+    "factoryPrice": "65 000",
     "basePrice": ""
   },
   {
@@ -1742,14 +1742,14 @@
   {
     "name": "Enus Jubilee",
     "category": "SUVs",
-    "factoryPrice": "67k",
+    "factoryPrice": "67 000",
     "basePrice": ""
   },
   {
     "name": "Baller ST-D",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "150 000",
+    "basePrice": "202.5k"
   },
   {
     "name": "bison",
@@ -1826,49 +1826,49 @@
   {
     "name": "Rumpo",
     "category": "Vans",
-    "factoryPrice": "15k",
+    "factoryPrice": "15 000",
     "basePrice": ""
   },
   {
     "name": "speedo",
     "category": "Vans",
-    "factoryPrice": "20k",
+    "factoryPrice": "20 000",
     "basePrice": ""
   },
   {
     "name": "speedo2",
     "category": "Vans",
-    "factoryPrice": "20k",
+    "factoryPrice": "20 000",
     "basePrice": ""
   },
   {
     "name": "Surfer",
     "category": "Vans",
-    "factoryPrice": "12k",
+    "factoryPrice": "12 000",
     "basePrice": ""
   },
   {
     "name": "Youga",
     "category": "Vans",
-    "factoryPrice": "10.8k",
+    "factoryPrice": "10 800",
     "basePrice": ""
   },
   {
     "name": "Youga Luxury",
     "category": "Vans",
-    "factoryPrice": "14.5k",
+    "factoryPrice": "14 500",
     "basePrice": ""
   },
   {
     "name": "youga3",
     "category": "Vans",
-    "factoryPrice": "20k",
+    "factoryPrice": "20 000",
     "basePrice": ""
   },
   {
     "name": "Youga Custom",
     "category": "Vans",
-    "factoryPrice": "20k",
+    "factoryPrice": "20 0000",
     "basePrice": ""
   }
 ]
