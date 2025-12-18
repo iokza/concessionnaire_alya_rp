@@ -58,14 +58,16 @@ if(localStorage.getItem('vehicles')) {
 }
 
 function render(list){
+  const filter = search.value.toLowerCase();
+  const filtered = list.filter(v => v.name.toLowerCase().includes(filter));
+  
   table.innerHTML = '';
-  if(list.length === 0){
+  if(filtered.length === 0){
     table.innerHTML = '<tr><td colspan="5">Aucun véhicule trouvé</td></tr>';
     return;
   }
 
-  list.forEach(v => {
-    // Récupérer l'index réel dans vehicles
+  filtered.forEach(v => {
     const index = vehicles.findIndex(vehicle => vehicle.name === v.name && vehicle.category === v.category);
     table.innerHTML += `
       <tr>
@@ -82,6 +84,8 @@ function render(list){
   });
 }
 
+
+  
 search.addEventListener('input',()=>{
   const value = search.value.toLowerCase();
   render(vehicles.filter(v => v.name.toLowerCase().includes(value)));
