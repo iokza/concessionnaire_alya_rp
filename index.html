@@ -57,10 +57,16 @@ if(localStorage.getItem('vehicles')) {
     .catch(() => { table.innerHTML = '<tr><td colspan="5">Erreur : impossible de charger vehicles.json</td></tr>'; });
 }
 
-function render(list) {
+function render(list){
   table.innerHTML = '';
-  if(list.length === 0){ table.innerHTML = '<tr><td colspan="5">Aucun véhicule trouvé</td></tr>'; return; }
-  list.forEach((v,i)=>{
+  if(list.length === 0){
+    table.innerHTML = '<tr><td colspan="5">Aucun véhicule trouvé</td></tr>';
+    return;
+  }
+
+  list.forEach(v => {
+    // Récupérer l'index réel dans vehicles
+    const index = vehicles.findIndex(vehicle => vehicle.name === v.name && vehicle.category === v.category);
     table.innerHTML += `
       <tr>
         <td>${v.name}</td>
@@ -68,8 +74,8 @@ function render(list) {
         <td>${v.factoryPrice}</td>
         <td>${v.basePrice}</td>
         <td>
-          <button class='btn-factory' onclick="editPrice(${i}, 'factoryPrice')">Prix d'usine</button>
-          <button class='btn-base' onclick="editPrice(${i}, 'basePrice')">Prix de vente</button>
+          <button class='btn-factory' onclick="editPrice(${index}, 'factoryPrice')">Prix d'usine</button>
+          <button class='btn-base' onclick="editPrice(${index}, 'basePrice')">Prix de vente</button>
         </td>
       </tr>
     `;
