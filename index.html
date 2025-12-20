@@ -25,11 +25,10 @@
 <table>
   <thead>
     <tr>
-      <th>Nom</th>
-      <th>Catégorie</th>
-      <th>Prix d'usine</th>
-      <th>Prix de vente</th>
-      <th>Actions</th>
+      <th onclick="sortBy('name')">Nom ⬍</th>
+      <th onclick="sortBy('category')">Catégorie ⬍</th>
+      <th onclick="sortBy('factoryPrice')">Prix d'usine ⬍</th>
+      <th onclick="sortBy('basePrice')">Prix de vente ⬍</th>
     </tr>
   </thead>
   <tbody id="table" class="loading">
@@ -57,6 +56,51 @@ if(localStorage.getItem('vehicles')) {
     .catch(() => { table.innerHTML = '<tr><td colspan="5">Erreur : impossible de charger vehicles.json</td></tr>'; });
 }
 
+function sortBy(key){
+  if(currentSort.key === key){
+    currentSort.asc = !currentSort.asc;
+  } else {
+    currentSort.key = key;
+    currentSort.asc = true;
+  }
+
+  const sorted = [...vehicles].sort((a, b) => {
+    let valA, valB;
+
+    if(key === 'basePrice'){
+      valA = calculateBasePrice(a.factoryPrice);
+      valB = calculateBasePrice(b.factoryPrice);
+    } else {
+      valA = a[key];
+      valB = b[key];
+    }
+
+    // Texte
+    if(typeof valA === 'string'){
+      return currentSort.asc
+        ? valA.localeCompare(valB, 'fr')
+        : valB.localeCompare(valA, 'fr');
+    }
+
+    // Nombre
+    return currentSort.asc ? valA - valB : valB - valA;
+  });
+
+  render(sorted);
+}
+
+function formatPriceK(value){
+  if(!value) return '';
+  return (value / 1000).toLocaleString('en-EN') + 'k';
+}
+
+
+function formatPrice(value){
+  if(!value) return '';
+  return Number(value).toLocaleString('fr-FR');
+}
+
+  
 function render(list){
   const filter = search.value.toLowerCase();
   const filtered = list.filter(v => v.name.toLowerCase().includes(filter));
@@ -73,18 +117,34 @@ function render(list){
       <tr>
         <td>${v.name}</td>
         <td>${v.category}</td>
-        <td>${v.factoryPrice}</td>
-        <td>${v.basePrice}</td>
+        <td>${formatPrice(v.factoryPrice)}</td>
+        <td>${formatPriceK(calculateBasePrice(v.factoryPrice))}</td>
         <td>
-          <button class='btn-factory' onclick="editPrice(${index}, 'factoryPrice')">Prix d'usine</button>
-          <button class='btn-base' onclick="editPrice(${index}, 'basePrice')">Prix de vente</button>
+          <button class="btn-copy" onclick="copyVehicle(${index})">Copier</button>
         </td>
       </tr>
     `;
   });
 }
 
+function copyVehicle(index){
+  const v = vehicles[index];
 
+  const category = v.category || '';
+  const name = v.name || '';
+  const factoryPrice = v.factoryPrice || '';
+
+  // TAB entre chaque colonne
+  const textToCopy = `${category}\t${name}\t${factoryPrice}`;
+
+  navigator.clipboard.writeText(textToCopy)
+    .then(() => {
+      console.log('Copié :', textToCopy);
+    })
+    .catch(err => {
+      alert('Erreur de copie');
+      console.error(err);
+    });
   
 search.addEventListener('input',()=>{
   const value = search.value.toLowerCase();
