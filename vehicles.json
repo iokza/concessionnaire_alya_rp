@@ -2,1873 +2,1561 @@
   {
     "name": "Issi",
     "category": "Compacts",
-    "factoryPrice": "10 000",
-    "basePrice": "27k"
-  },
-  {
-    "name": "Elegy Sport",
-    "category": "Sport",
-    "factoryPrice": "95 0000",
-    "basePrice": "128.25k"
+    "factoryPrice": "10000"
   },
   {
     "name": "Buffalo STX",
     "category": "Muscles",
-    "factoryPrice": "42 000",
-    "basePrice": "42k"
+    "factoryPrice": "42000"
   },
   {
     "name": "asbo",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "Blista",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "Brioso R/A",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "18000"
   },
   {
     "name": "brioso2",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "club",
     "category": "Compacts",
-    "factoryPrice": "8 000",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "dilettante",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "issi3",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "kanjo",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "Panto",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "5000"
   },
   {
     "name": "Prairie",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "12000"
   },
   {
     "name": "rhapsody",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "weevil",
     "category": "Compacts",
-    "factoryPrice": "8 000",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "Kanjo",
     "category": "Compacts",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "32000"
   },
   {
     "name": "Sentinel XS",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "Windsor",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "95000"
   },
   {
     "name": "Windsor Drop",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "125000"
   },
   {
     "name": "Zion",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "36000"
   },
   {
     "name": "Zion Cabrio",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Cognoscenti Cabrio",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Exemplar",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "56000"
   },
   {
     "name": "F620",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "Felon",
     "category": "Coupés",
-    "factoryPrice": "42 000",
-    "basePrice": ""
+    "factoryPrice": "42000"
   },
   {
     "name": "Felon GT",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Jackal",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "38000"
   },
   {
     "name": "oracle",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Oracle XS",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "Sentinel",
     "category": "Coupés",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "32000"
   },
   {
     "name": "Issi Custom",
     "category": "Imports",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "215000"
   },
   {
     "name": "Komoda GTS",
     "category": "Imports",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "275000"
   },
   {
     "name": "SideWinders",
     "category": "Imports",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "185000"
   },
   {
     "name": "Admiral",
     "category": "Imports",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "150000"
   },
   {
     "name": "GresleySTX",
     "category": "Imports",
-    "factoryPrice": "245 000",
-    "basePrice": ""
+    "factoryPrice": "245000"
   },
   {
     "name": "Blade",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "15000"
   },
   {
     "name": "Buccaneer",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "18000"
   },
   {
     "name": "Buccaneer Rider",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "24000"
   },
   {
     "name": "Chino",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "15000"
   },
   {
     "name": "Chino Luxe",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "19000"
   },
   {
     "name": "clique",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Coquette BlackFin",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "deviant",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Dominator",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "dominator2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "dominator3",
     "category": "Muscles",
-    "factoryPrice": "45 000",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Dukes",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "28000"
   },
   {
     "name": "dukes3",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "ellie",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Faction",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Faction Rider",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "30000"
   },
   {
     "name": "Gauntlet",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "30000"
   },
   {
     "name": "gauntlet2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "gauntlet3",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "gauntlet4",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "gauntlet5",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Hermes",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "255000"
   },
   {
     "name": "Hotknife",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "125000"
   },
   {
     "name": "Hustler",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "290000"
   },
   {
     "name": "impaler",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Nightshade",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
     "name": "peyote2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Phoenix",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "12500"
   },
   {
     "name": "Picador",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "18000"
   },
   {
     "name": "ratloader",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "ratloader2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "ruiner",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Sabre Turbo",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Sabre GT",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "25000"
   },
   {
     "name": "Slam Van",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "21000"
   },
   {
-    "name": "station",
+    "name": "stalion",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
-    "name": "Station2",
+    "name": "Stalion2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Tampa",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "16000"
   },
   {
     "name": "tulip",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "vamos",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Vigero",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "12500"
   },
   {
     "name": "Virgo",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "14000"
   },
   {
     "name": "virgo2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "virgo3",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Voodoo",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "22000"
   },
   {
     "name": "Yosemite",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "101000"
   },
   {
     "name": "yosemite2",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "yosemite3",
     "category": "Muscles",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Bf Injection",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "16000"
   },
   {
     "name": "Bifta",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "12000"
   },
   {
     "name": "Blazer",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "6500"
   },
   {
     "name": "Blazer Sport",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8500"
   },
   {
     "name": "bodhi2",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Brawler",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "dloader",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Bubsta 6x6",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "120000"
   },
   {
     "name": "Dune Buggy",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8000"
   },
   {
     "name": "everon",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "freecrawler",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Guardian",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "235000"
   },
   {
     "name": "hellion",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "kalahari",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Kamacho",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "170000"
   },
   {
     "name": "outlaw",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "rancherxl",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "rebel",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Rebel (rouillée)",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "riata",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "165000"
   },
   {
     "name": "Sandking",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "sandking2",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Trophy Truck",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "60000"
   },
   {
     "name": "Trophy Truck Limited",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "80000"
   },
   {
     "name": "vagrant",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "verus",
     "category": "Off-Road",
-    "factoryPrice": "45 000",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "winky",
     "category": "Off-Road",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Asea",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "5500"
   },
   {
     "name": "asterope",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Cheburek",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "cog55",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Cognoscenti",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Emperor",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "8500"
   },
   {
     "name": "emperor2",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Fugitive",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "12000"
   },
   {
     "name": "Glendale",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "16500"
   },
   {
     "name": "glendale2",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "ingot",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Intruder",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "7500"
   },
   {
     "name": "Premier",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "18000"
   },
   {
     "name": "primo",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "Primo Custom",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Regina",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "5000"
   },
   {
     "name": "Schafter",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "25000"
   },
   {
     "name": "stafford",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "stanier",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "stratum",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Stretch",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "125000"
   },
   {
     "name": "Super Diamond",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "130000"
   },
   {
     "name": "surge",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Tailgater",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "30000"
   },
   {
     "name": "Warrener",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "4000"
   },
   {
     "name": "Washington",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "9000"
   },
   {
     "name": "Lampadati Cinquemila",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
     "name": "Enus Deity",
     "category": "Sedans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "69000"
   },
   {
     "name": "Alpha",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "60000"
   },
   {
     "name": "Banshee",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "70000"
   },
   {
     "name": "Bestia GTS",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "95000"
   },
   {
     "name": "blista2",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "blista3",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Buffalo",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "22000"
   },
   {
     "name": "Buffalo S",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "26000"
   },
   {
     "name": "carbonizzare",
     "category": "Sport",
-    "factoryPrice": "75 000",
-    "basePrice": ""
+    "factoryPrice": "75000"
   },
   {
     "name": "Comet",
     "category": "Sport",
-    "factoryPrice": "72 000",
-    "basePrice": "97.2k"
+    "factoryPrice": "72000"
   },
   {
     "name": "Comet 5",
     "category": "Sport",
-    "factoryPrice": "145 000",
-    "basePrice": "195.75k"
+    "factoryPrice": "145000"
   },
   {
     "name": "Coquette",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
     "name": "drafter",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "dynasty",
     "category": "Sport",
-    "factoryPrice": "20 000",
-    "basePrice": "27k"
+    "factoryPrice": "20000"
   },
   {
     "name": "Elegy",
     "category": "Sport",
-    "factoryPrice": "90 000",
-    "basePrice": "121.5k"
+    "factoryPrice": "90000"
   },
   {
-    "name": "f",
+    "name": "Elegy Sport",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "95000"
   },
   {
-    "name": "ragaloa",
+    "name": "fagaloa",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Feltzer",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Flash GT",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Furore GT",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Fusilade",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "futo",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "31000"
   },
   {
     "name": "gb200",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "hotring",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "42000"
   },
   {
     "name": "Imorgon",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "70000"
   },
   {
     "name": "infernus2",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "142000"
   },
   {
     "name": "issi7",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "80000"
   },
   {
     "name": "Italigto",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "110000"
   },
   {
     "name": "Jester",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
     "name": "jester3",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "42000"
   },
   {
     "name": "jugular",
     "category": "Sport",
-    "factoryPrice": "165 000",
-    "basePrice": "222.75k"
+    "factoryPrice": "165000"
   },
   {
     "name": "Khamelion",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "83000"
   },
   {
     "name": "komoda",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "95000"
   },
   {
     "name": "Kuruma",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "100000"
   },
   {
     "name": "locust",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "70000"
   },
   {
     "name": "Lynx",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "50000"
   },
   {
     "name": "Mamba",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "70000"
   },
   {
     "name": "Massacro",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
-    "name": "michelle",
+    "name": "michelli",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "31000"
   },
   {
     "name": "nebula",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "31000"
   },
   {
     "name": "Neon",
     "category": "Sport",
-    "factoryPrice": "150 000",
-    "basePrice": ""
+    "factoryPrice": "150000"
   },
   {
     "name": "9F",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "85000"
   },
   {
     "name": "9F Cabrio",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "95000"
   },
   {
     "name": "Omnis",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "paragon",
     "category": "Sport",
-    "factoryPrice": "115 000",
-    "basePrice": ""
+    "factoryPrice": "115000"
   },
   {
     "name": "Pariah",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "142000"
   },
   {
     "name": "Penumbra",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "28000"
   },
   {
     "name": "penumbra2",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "32500"
   },
   {
     "name": "peyote",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
-    "name": "Raiden GT",
+    "name": "Raiden",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "137500"
   },
   {
     "name": "Rapid GT",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "87000"
   },
   {
     "name": "Revolter",
     "category": "Sport",
-    "factoryPrice": "161 000",
-    "basePrice": ""
+    "factoryPrice": "161000"
   },
   {
     "name": "ruston",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Schafter V12",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "50000"
   },
   {
     "name": "schafter4",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "schlagen",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "82000"
   },
   {
     "name": "Seven 70",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "69000"
   },
   {
     "name": "specter",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Streiter",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "125000"
   },
   {
     "name": "sugoi",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "29000"
   },
   {
     "name": "Sultan",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "61000"
   },
   {
     "name": "sultan2",
     "category": "Sport",
-    "factoryPrice": "20 000",
-    "basePrice": "27k"
+    "factoryPrice": "20000"
   },
   {
     "name": "Sultan RS",
     "category": "Sport",
-    "factoryPrice": "85 000",
-    "basePrice": ""
+    "factoryPrice": "85000"
   },
   {
     "name": "Surano",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "50000"
   },
   {
     "name": "swinger",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "37000"
   },
   {
     "name": "Drift Tampa",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "80000"
   },
   {
     "name": "torero",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "98000"
   },
   {
     "name": "tornado",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "tornado6",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Tropos",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "turismo2",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "122000"
   },
   {
     "name": "Verlierer",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "70000"
   },
   {
     "name": "vstr",
     "category": "Sport",
-    "factoryPrice": "115 000",
-    "basePrice": ""
+    "factoryPrice": "115000"
   },
   {
     "name": "zion3",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "comet6",
     "category": "Sport",
-    "factoryPrice": "182 000",
-    "basePrice": "245.7k"
+    "factoryPrice": "182000"
   },
   {
     "name": "dominator7",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "72000"
   },
   {
     "name": "dominator8",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "67000"
   },
   {
     "name": "euros",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "28000"
   },
   {
     "name": "rt3000",
     "category": "Sport",
-    "factoryPrice": "2 000",
-    "basePrice": "2700"
+    "factoryPrice": "2000"
   },
   {
     "name": "sultan3",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "60000"
   },
   {
     "name": "tailgater2",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "100000"
   },
   {
     "name": "vectre",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "42000"
   },
   {
     "name": "remus",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "30000"
   },
   {
     "name": "calico",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "38000"
   },
   {
     "name": "cypher",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "jester4",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "49000"
   },
   {
     "name": "zr350",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "43000"
   },
   {
     "name": "Jester Comet S2 Cabrio",
     "category": "Sport",
-    "factoryPrice": "137 000",
-    "basePrice": "184.95k"
+    "factoryPrice": "137000"
   },
   {
     "name": "Growler",
     "category": "Sport",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "100000"
   },
   {
     "name": "Btype",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "62000"
   },
   {
     "name": "Btype Hotroad",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "155000"
   },
   {
     "name": "Btype Luxe",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "85000"
   },
   {
     "name": "Casco",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Coquette Classic",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "Stirling GT",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
     "name": "GT 500",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "78500"
   },
   {
     "name": "Monroe",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Pigalle",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Stinger",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "80000"
   },
   {
     "name": "Stinger GT",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "75000"
   },
   {
     "name": "Viseris",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "87500"
   },
   {
     "name": "Z190",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "Z-Type",
     "category": "Sport Classics",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "220000"
   },
   {
     "name": "Banshee 900R",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "47000"
   },
   {
     "name": "Bullet",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "Cyclone",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "189000"
   },
   {
     "name": "gp1",
     "category": "Supers",
-    "factoryPrice": "112 000",
-    "basePrice": ""
+    "factoryPrice": "112000"
   },
   {
     "name": "Infernus",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "180000"
   },
   {
     "name": "italigtb",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "129000"
   },
   {
     "name": "italigtb2",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "120000"
   },
   {
     "name": "penetrator",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "142000"
   },
   {
     "name": "Reaper",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "150000"
   },
   {
     "name": "SC1",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "160300"
   },
   {
     "name": "ETR1",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "220000"
   },
   {
     "name": "tempesta",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "185000"
   },
   {
     "name": "Voltic",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "xa21",
     "category": "Supers",
-    "factoryPrice": "70 000",
-    "basePrice": ""
+    "factoryPrice": "70000"
   },
   {
     "name": "zorrusso",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "109000"
   },
   {
     "name": "tyrus",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "340000"
   },
   {
     "name": "tyrant",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "275000"
   },
   {
     "name": "coquette4",
     "category": "Supers",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "410000"
   },
   {
     "name": "Baller Sport",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "60000"
   },
   {
     "name": "bjxl",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "cavalcade",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Cavalcade",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Contender",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "180000"
   },
   {
     "name": "Dubsta",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Dubsta Luxury",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "90000"
   },
   {
     "name": "Fhantom",
     "category": "SUVs",
-    "factoryPrice": "17 000",
-    "basePrice": ""
+    "factoryPrice": "17000"
   },
   {
     "name": "Grabger",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "50000"
   },
   {
     "name": "Gresley",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "47500"
   },
   {
     "name": "habanero",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Huntley S",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "Landstalker",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "landstalker2",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Mesa",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "16000"
   },
   {
     "name": "Mesa Trail",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "40000"
   },
   {
     "name": "novak",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Patriot",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "patriot2",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "125000"
   },
   {
     "name": "Radius",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "29000"
   },
   {
     "name": "rebla",
     "category": "SUVs",
-    "factoryPrice": "45 000",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Rocoto",
     "category": "SUVs",
-    "factoryPrice": "45 000",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "Seminole",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "25000"
   },
   {
     "name": "seminole2",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "serrano",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "squaddie",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "toros",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "91000"
   },
   {
     "name": "XLS",
     "category": "SUVs",
-    "factoryPrice": "32 000",
-    "basePrice": ""
+    "factoryPrice": "32000"
   },
   {
     "name": "Pfister Astron",
     "category": "SUVs",
-    "factoryPrice": "103 000",
-    "basePrice": ""
+    "factoryPrice": "103000"
   },
   {
     "name": "Gallivanter Baller ST",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "55000"
   },
   {
     "name": "Declasse Granger 3600LX",
     "category": "SUVs",
-    "factoryPrice": "65 000",
-    "basePrice": ""
+    "factoryPrice": "65000"
   },
   {
     "name": "Obey IWagen",
     "category": "SUVs",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "66000"
   },
   {
     "name": "Enus Jubilee",
     "category": "SUVs",
-    "factoryPrice": "67 000",
-    "basePrice": ""
+    "factoryPrice": "67000"
   },
   {
     "name": "Baller ST-D",
     "category": "SUVs",
-    "factoryPrice": "150 000",
-    "basePrice": "202.5k"
+    "factoryPrice": "150000"
   },
   {
     "name": "bison",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
   },
   {
     "name": "bison2",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Bobcat XL",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "32000"
   },
   {
     "name": "burrito2",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Burrito",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "49000"
   },
   {
     "name": "burrito4",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Gang Burrito",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "45000"
+  },
+  {
+    "name": "Burrito 39k",
+    "category": "Vans",
+    "factoryPrice": "29000"
   },
   {
     "name": "Journey",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "13000"
   },
   {
     "name": "Minivan",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "minivan2",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "18000"
   },
   {
     "name": "Moonbeam",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "Moonbeam Rider",
     "category": "Vans",
-    "factoryPrice": "",
-    "basePrice": ""
+    "factoryPrice": "35000"
   },
   {
     "name": "Rumpo",
     "category": "Vans",
-    "factoryPrice": "15 000",
-    "basePrice": ""
+    "factoryPrice": "15000"
   },
   {
     "name": "speedo",
     "category": "Vans",
-    "factoryPrice": "20 000",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "speedo2",
     "category": "Vans",
-    "factoryPrice": "20 000",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Surfer",
     "category": "Vans",
-    "factoryPrice": "12 000",
-    "basePrice": ""
+    "factoryPrice": "12000"
   },
   {
     "name": "Youga",
     "category": "Vans",
-    "factoryPrice": "10 800",
-    "basePrice": ""
+    "factoryPrice": "10800"
   },
   {
     "name": "Youga Luxury",
     "category": "Vans",
-    "factoryPrice": "14 500",
-    "basePrice": ""
+    "factoryPrice": "14500"
   },
   {
     "name": "youga3",
     "category": "Vans",
-    "factoryPrice": "20 000",
-    "basePrice": ""
+    "factoryPrice": "20000"
   },
   {
     "name": "Youga Custom",
     "category": "Vans",
-    "factoryPrice": "20 0000",
-    "basePrice": ""
+    "factoryPrice": "20000"
   }
 ]
